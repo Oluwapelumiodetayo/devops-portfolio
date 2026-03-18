@@ -36,6 +36,19 @@ http://98.91.28.155
 🔗 GitHub Repo:
 https://github.com/oluwapelumiodetayo/flask-devops-project
 
+```markdown
+## 🐳 DockerHub Image
+
+Docker image for this project:
+
+👉 https://hub.docker.com/r/oluwapelumiodetayo/flask-devops-app
+
+Run locally:
+
+```bash
+docker pull oluwapelumiodetayo/flask-devops-app
+docker run -d -p 80:5000 oluwapelumiodetayo/flask-devops-app
+
 ---
 
 ## 🔐 Networking & Security
